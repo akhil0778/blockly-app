@@ -1,5 +1,5 @@
 import githubDark from './github-dark.png';
-import githubLight from './Github.png';
+import githubLight from './GitHub.png';
 
 import linkedinDark from './linked-dark.png';
 import linkedinLight from './Linkedin.png';
