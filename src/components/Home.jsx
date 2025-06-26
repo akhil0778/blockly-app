@@ -1,5 +1,5 @@
 import profile from "../assets/profile.png";
-import hello from "../assets/hello.png";
+import hello from "../assets/Hello.png";
 import icons from "../assets/icons";
 import { Button, Container, Row, Col } from "react-bootstrap";
 import { useTheme } from "../context/ThemeContext";
