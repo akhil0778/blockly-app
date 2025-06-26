@@ -2,7 +2,7 @@ import githubDark from './github-dark.png';
 import githubLight from './GitHub.png';
 
 import linkedinDark from './linked-dark.png';
-import linkedinLight from './Linkedin.png';
+import linkedinLight from './LinkedIn.png';
 
 import twitterDark from './twitter-dark.png';
 import twitterLight from './Twitter.png';
